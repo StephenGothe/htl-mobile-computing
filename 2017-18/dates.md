@@ -136,7 +136,7 @@
 | 16. Nov. 2017  | Hummel    | WebSocket
 | 23. Nov. 2017  |           |
 | 30. Nov. 2017  |           |
-| 07. Dec. 2017  |           |
+| 07. Dec. 2017  |Greß       | Open Data
 | 14. Dec. 2017  |           |
 | 21. Dec. 2017  |           |
 | 11. Jan. 2018  |           |
